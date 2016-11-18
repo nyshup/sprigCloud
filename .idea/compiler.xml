@@ -25,9 +25,13 @@
         <module name="configServer" />
         <module name="lab-3-client" />
         <module name="lab-3-server" />
+        <module name="lab-4-adjective" />
+        <module name="lab-4-article" />
         <module name="lab-4-eureka-server" />
+        <module name="lab-4-noun" />
         <module name="lab-4-subjec" />
         <module name="lab-4-subject" />
+        <module name="lab-4-verb" />
         <module name="lab3client" />
       </profile>
     </annotationProcessing>
@@ -35,9 +39,13 @@
       <module name="configServer" target="1.8" />
       <module name="lab-3-client" target="1.8" />
       <module name="lab-3-server" target="1.8" />
+      <module name="lab-4-adjective" target="1.8" />
+      <module name="lab-4-article" target="1.8" />
       <module name="lab-4-eureka-server" target="1.8" />
+      <module name="lab-4-noun" target="1.8" />
       <module name="lab-4-subjec" target="1.8" />
       <module name="lab-4-subject" target="1.8" />
+      <module name="lab-4-verb" target="1.8" />
       <module name="lab3client" target="1.8" />
       <module name="sprigCloud" target="1.5" />
     </bytecodeTargetLevel>
