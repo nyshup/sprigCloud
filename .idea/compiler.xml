@@ -29,6 +29,7 @@
         <module name="lab-4-article" />
         <module name="lab-4-eureka-server" />
         <module name="lab-4-noun" />
+        <module name="lab-4-sentence" />
         <module name="lab-4-subjec" />
         <module name="lab-4-subject" />
         <module name="lab-4-verb" />
@@ -43,6 +44,7 @@
       <module name="lab-4-article" target="1.8" />
       <module name="lab-4-eureka-server" target="1.8" />
       <module name="lab-4-noun" target="1.8" />
+      <module name="lab-4-sentence" target="1.8" />
       <module name="lab-4-subjec" target="1.8" />
       <module name="lab-4-subject" target="1.8" />
       <module name="lab-4-verb" target="1.8" />
