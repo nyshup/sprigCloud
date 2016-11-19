@@ -10,11 +10,14 @@
         <option value="$PROJECT_DIR$/lab3client/pom.xml" />
         <option value="$PROJECT_DIR$/lab-4-eureka-server/pom.xml" />
         <option value="$PROJECT_DIR$/lab-4-subjec/pom.xml" />
-        <option value="$PROJECT_DIR$/lab-4-article/pom.xml" />
-        <option value="$PROJECT_DIR$/lab-4-adjective/pom.xml" />
         <option value="$PROJECT_DIR$/lab-4-noun/pom.xml" />
-        <option value="$PROJECT_DIR$/lab-4-sentence/pom.xml" />
       </list>
+    </option>
+    <option name="ignoredFiles">
+      <set>
+        <option value="$PROJECT_DIR$/lab-4-subject/pom.xml" />
+        <option value="$PROJECT_DIR$/lab-4-verb/pom.xml" />
+      </set>
     </option>
   </component>
   <component name="ProjectLevelVcsManager" settingsEditedManually="false">

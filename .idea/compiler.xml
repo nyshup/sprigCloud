@@ -25,14 +25,9 @@
         <module name="configServer" />
         <module name="lab-3-client" />
         <module name="lab-3-server" />
-        <module name="lab-4-adjective" />
-        <module name="lab-4-article" />
         <module name="lab-4-eureka-server" />
         <module name="lab-4-noun" />
-        <module name="lab-4-sentence" />
         <module name="lab-4-subjec" />
-        <module name="lab-4-subject" />
-        <module name="lab-4-verb" />
         <module name="lab3client" />
       </profile>
     </annotationProcessing>
